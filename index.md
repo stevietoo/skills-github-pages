@@ -1,5 +1,6 @@
 ---
 title: So this is my blog, apparently...
+date: 2023-06-12
 ---
 # i am thrilled.
 dont know what to do with that.
